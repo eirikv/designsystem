@@ -1,5 +1,5 @@
 #### Primærpalett
-```jsx noeditor
+
 <ul className="sb1ds-color-palette">
     <li className="sb1ds-color-palette__item sb1ds-color-palette__item--ffe-blue-royal">
         <div>Blue Royal</div>
@@ -22,11 +22,10 @@
         <div>#FFFFFF<br/>@ffe-white</div>
     </li>
 </ul>
-```
+
 
 #### Sekundærpalett
 
-```jsx noeditor
 <ul className="sb1ds-color-palette">
     <li className="sb1ds-color-palette__item sb1ds-color-palette__item--ffe-green-shamrock">
         <div>Green Shamrock</div>
@@ -45,11 +44,9 @@
         <div>#FF9100<br/>@ffe-orange</div>
     </li>
 </ul>
-```
 
 #### Tertiærpalett
 
-```jsx noeditor
 <ul className="sb1ds-color-palette">
     <li className="sb1ds-color-palette__item sb1ds-color-palette__item--ffe-sand-ivory">
         <div>Sand Ivory</div>
@@ -68,11 +65,9 @@
         <div>#F3BBAA<br/>@ffe-orange-salmon</div>
     </li>
 </ul>
-```
 
 #### Nøytralpalett
 
-```jsx noeditor
 <ul className="sb1ds-color-palette">
     <li className="sb1ds-color-palette__item sb1ds-color-palette__item--ffe-black">
         <div>Black</div>
@@ -95,11 +90,9 @@
         <div>#F4F4F4<br/>@ffe-grey-cloud</div>
     </li>
 </ul>
-```
 
 #### Røkla
 
-```jsx noeditor
 <ul className="sb1ds-color-palette">
     <li className="sb1ds-color-palette__item sb1ds-color-palette__item--ffe-blue-deep-sky">
         <div>Blue Deep Sky</div>
@@ -138,4 +131,3 @@
         <div>#C94096<br/>@ffe-purple</div>
     </li>
 </ul>
-```
